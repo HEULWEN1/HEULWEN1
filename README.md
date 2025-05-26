@@ -1,141 +1,55 @@
-<div align="center">
+# Pham Thi Mai Anh 👋
+**IT Network Specialist** | Aspiring Network Engineer  
 
-  <a href="https://github.com/yourusername/network-security-hub">
-    <img src="assets/banner-animated.gif" alt="Network Security Hub Banner" width="100%">
-  </a>
-
-  <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72E&width=435&lines=🌐+Network+Security+Hub;🔒+Bảo+mật+Hệ+thống;🛡️+Ethical+Hacking;📡+Mạng+Máy+tính" alt="Typing Animation">
-  </h1>
-
-  <p align="center"><strong>Tổng hợp tài nguyên, công cụ và kiến thức chuyên sâu về An ninh mạng.</strong></p>
-
-  <p align="center">
-    <a href="https://github.com/yourusername/network-security-hub/issues">
-      <img src="https://img.shields.io/github/issues/yourusername/network-security-hub?color=00F72E&style=for-the-badge" alt="Issues">
-    </a>
-    <a href="https://github.com/yourusername/network-security-hub/stargazers">
-      <img src="https://img.shields.io/github/stars/yourusername/network-security-hub?color=00F72E&style=for-the-badge" alt="Stars">
-    </a>
-    <a href="https://github.com/yourusername/network-security-hub/network/members">
-      <img src="https://img.shields.io/github/forks/yourusername/network-security-hub?color=00F72E&style=for-the-badge" alt="Forks">
-    </a>
-    <a href="https://github.com/yourusername/network-security-hub/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/yourusername/network-security-hub?color=00F72E&style=for-the-badge" alt="License">
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="#-giới-thiệu">Giới thiệu</a> •
-    <a href="#-nội-dung-chính">Nội dung</a> •
-    <a href="#-công-cụ-đề-xuất">Công cụ</a> •
-    <a href="#-thống-kê">Thống kê</a> •
-    <a href="#-banner--thiết-kế">Banner & Thiết kế</a> •
-    <a href="#-các-thành-phần-nâng-cao">Tự động hóa</a>
-  </p>
-
-</div>
+📍 Dorm. Zone B, Mac Dinh Chi St., Tan Hoa, Di An, Binh Duong, Vietnam  
+📞 0868404775 | ✉️ ptmaianh1609@gmail.com  
 
 ---
 
-## 🚀 Giới thiệu
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=network-security-hub&theme=dark&bg_color=0d1117&title_color=00F72E&icon_color=00F72E" alt="Repo Card">
-</div>
-
-> Đây là bộ tài nguyên toàn diện nhất về:
-- 🌐 Quản trị mạng nâng cao
-- 🔒 Bảo mật hệ thống chuyên sâu
-- 🧠 Ethical Hacking thực chiến
-- 🕵️‍♀️ Digital Forensics và điều tra số
+## 🎯 Career Objective  
+Passionate about building stable and secure network infrastructures. Continuously improving expertise in network administration, cloud technologies, and cybersecurity.  
 
 ---
 
-## 📚 Nội dung chính
+## 🛠️ Technical Skills  
 
-### 📡 Networking
+### 🌐 Networking  
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">  
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">  
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet">  
+  <img src="https://img.shields.io/badge/Palo%20Alto-FF6A13?style=for-the-badge&logo=paloalto&logoColor=white" alt="Palo Alto">  
+  <img src="https://img.shields.io/badge/VPN-0077B5?style=for-the-badge&logo=protonvpn&logoColor=white" alt="VPN">  
+  <img src="https://img.shields.io/badge/SD--WAN-009688?style=for-the-badge&logo=sdwan&logoColor=white" alt="SD-WAN">  
+  <img src="https://img.shields.io/badge/DHCP-FF6D00?style=for-the-badge&logo=dhcp&logoColor=white" alt="DHCP">  
+  <img src="https://img.shields.io/badge/DNS-0033AA?style=for-the-badge&logo=dns&logoColor=white" alt="DNS">  
+</div>  
 
-| Tài liệu | Mô tả | Trạng thái |
-|---------|-------|------------|
-| [📌 Mạng căn bản](docs/networking/basic-networking.md) | OSI Model, TCP/IP | ✅ Hoàn thành |
-| [⚡ Mạng nâng cao](docs/networking/advanced-networking.md) | BGP, OSPF, VLAN | 🔄 Đang cập nhật |
-| [🔧 Thiết bị mạng](docs/networking/network-devices.md) | Cisco, Juniper | ✅ Hoàn thành |
+### ☁️ Cloud & Security  
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">  
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">  
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">  
+  <img src="https://img.shields.io/badge/SIEM-4B32C3?style=for-the-badge&logo=splunk&logoColor=white" alt="SIEM">  
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">  
+  <img src="https://img.shields.io/badge/Nagios-1EB300?style=for-the-badge&logo=nagios&logoColor=white" alt="Nagios">  
+</div>  
 
-### 🔒 Security
-
-| Tài liệu | Mô tả | Trạng thái |
-|---------|-------|------------|
-| [🛡️ OWASP Top 10](docs/security/owasp-top10.md) | 10 lỗ hổng web nguy hiểm | ✅ Hoàn thành |
-| [💉 Penetration Testing](docs/security/pentesting.md) | Kali Linux, Metasploit | 🔄 Đang cập nhật |
-| [🔐 Cryptography](docs/security/cryptography.md) | AES, RSA, ECC | ✅ Hoàn thành |
-
----
-
-## 🛠️ Công cụ đề xuất
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="assets/icons/wireshark.png" width="48" alt="Wireshark"><br>Wireshark
-      </td>
-      <td align="center" width="100">
-        <img src="assets/icons/nmap.png" width="48" alt="Nmap"><br>Nmap
-      </td>
-      <td align="center" width="100">
-        <img src="assets/icons/metasploit.png" width="48" alt="Metasploit"><br>Metasploit
-      </td>
-      <td align="center" width="100">
-        <img src="assets/icons/burp.png" width="48" alt="Burp Suite"><br>Burp Suite
-      </td>
-    </tr>
-  </table>
-</div>
+### 📚 Certifications & Languages  
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">  
+  <img src="https://img.shields.io/badge/MOS%20Expert-217346?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="MOS Expert">  
+  <img src="https://img.shields.io/badge/HSK3-FF0000?style=for-the-badge&logo=chinese&logoColor=white" alt="HSK3">  
+  <img src="https://img.shields.io/badge/JLPT%20N4-000000?style=for-the-badge&logo=japanese&logoColor=white" alt="JLPT N4">  
+  <img src="https://img.shields.io/badge/CCNA%20(in%20progress)-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA">  
+</div>  
 
 ---
 
-## 📊 Thống kê
+## 🚀 Projects  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&repo=network-security-hub&layout=compact&theme=dark&bg_color=0d1117&title_color=00F72E&text_color=FFFFFF" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&repo=network-security-hub&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=00F72E" width="100%" alt="Activity Graph">
-</div>
+### Internal Network & Email Server Deployment  
+**Role**: Member | **Team**: 3 people  
+✅ Deployed DHCP/DNS servers (Bind9)  
+✅ Configured Postfix + Dovecot for enterprise email  
+✅ Implemented UFW firewall for network security  
 
----
-
-## 🎨 Banner & Thiết kế
-
-- 🖼 Banner động (GIF): `1280x640px` hoặc lớn hơn, phối màu xanh neon (#00F72E) và nền đen (#0d1117)
-- 🧩 Icon set đồng bộ cho các công cụ
-- 🎨 Gợi ý công cụ:
-  - [Canva](https://www.canva.com/) – Dễ sử dụng
-  - [Figma](https://www.figma.com/) – Thiết kế UI/UX chuyên nghiệp
-  - [After Effects](https://www.adobe.com/products/aftereffects.html) – Làm banner động
-
----
-
-## 🧩 Các thành phần nâng cao
-
-### ✅ GitHub Actions – Super Linter
-
-```yaml
-name: Super Linter
-
-on: [push, pull_request]
-
-jobs:
-  lint:
-    name: Lint Code Base
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout Code
-        uses: actions/checkout@v3
-
-      - name: Run Super-Linter
-        uses: github/super-linter@v4
-        env:
-          VALIDATE_ALL_CODEBASE: true
-          VALIDATE_MARKDOWN: true
+```bash
+Technologies: Bind9 | Postfix | Dovecot | UFW | Roundcube
