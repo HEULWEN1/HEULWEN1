@@ -1,4 +1,5 @@
 [![Banner Security](https://github.com/yourusername/yourusername/blob/main/assets/security-banner.gif)](https://your-portfolio.com)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=matrix&row=2&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Xin chào, tôi là [Tên của bạn] 
 
 **Chuyên gia Mạng & Bảo mật | Ethical Hacker | Security Researcher**
