@@ -1,3 +1,4 @@
+[![Banner Security](https://github.com/yourusername/yourusername/blob/main/assets/security-banner.gif)](https://your-portfolio.com)
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Xin chào, tôi là [Tên của bạn] 
 
 **Chuyên gia Mạng & Bảo mật | Ethical Hacker | Security Researcher**
