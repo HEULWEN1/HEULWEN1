@@ -30,6 +30,33 @@
 ☁️ Cloud Networking: AWS VPC, Azure Virtual Network
 📊 Monitoring: Wireshark, SolarWinds, Nagios
 
+🏆 Featured Projects
+Enterprise Network Deployment
+✔ Cisco Routers/Switches Configuration
+✔ VLAN & VPN Implementation
+✔ Fortinet Firewall Setup
+✔ Network Monitoring with SolarWinds
+
+Secure Email Server
+✔ Postfix + Dovecot Email System
+✔ SASL Authentication
+✔ SSL/TLS Encryption
+✔ UFW Firewall Rules
+
+📈 GitHub Analytics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=maianhpt&show_icons=true&theme=dark&hide_border=true"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=maianhpt&theme=dark&hide_border=true"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maianhpt&layout=compact&theme=dark&hide_border=true"> </div>
+
+📚 Currently Learning
+CCNA 200-301 Certification
+
+Azure Virtual Network
+
+Python for Network Automation
+
+SD-WAN Implementation
+
+📫 Let's Connect
+<p align="center"> <a href="mailto:ptmaianh1609@gmail.com"> <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail"> </a> <a href="https://linkedin.com/in/[your-profile]"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"> </a> </p> ```
 <!--
 **HEULWEN1/HEULWEN1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
