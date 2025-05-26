@@ -1,55 +1,69 @@
-# Pham Thi Mai Anh 👋
-**IT Network Specialist** | Aspiring Network Engineer  
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Xin chào, tôi là [Tên của bạn] 
 
-📍 Dorm. Zone B, Mac Dinh Chi St., Tan Hoa, Di An, Binh Duong, Vietnam  
-📞 0868404775 | ✉️ ptmaianh1609@gmail.com  
+**Chuyên gia Mạng & Bảo mật | Ethical Hacker | Security Researcher**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yourprofile)
+[![HackTheBox](https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/yourid)
 
-## 🎯 Career Objective  
-Passionate about building stable and secure network infrastructures. Continuously improving expertise in network administration, cloud technologies, and cybersecurity.  
+## 🔐 Chuyên môn
 
----
+- **Network Security**: Firewall, IDS/IPS, VPN, SIEM
+- **Penetration Testing**: Web App Security, Network Pentesting
+- **Digital Forensics**: Incident Response, Malware Analysis
+- **Cryptography**: Encryption Algorithms, PKI Implementation
+- **Cloud Security**: AWS, Azure, GCP Security Hardening
 
-## 🛠️ Technical Skills  
+## 🛠 Công cụ & Kỹ năng
 
-### 🌐 Networking  
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">  
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">  
-  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet">  
-  <img src="https://img.shields.io/badge/Palo%20Alto-FF6A13?style=for-the-badge&logo=paloalto&logoColor=white" alt="Palo Alto">  
-  <img src="https://img.shields.io/badge/VPN-0077B5?style=for-the-badge&logo=protonvpn&logoColor=white" alt="VPN">  
-  <img src="https://img.shields.io/badge/SD--WAN-009688?style=for-the-badge&logo=sdwan&logoColor=white" alt="SD-WAN">  
-  <img src="https://img.shields.io/badge/DHCP-FF6D00?style=for-the-badge&logo=dhcp&logoColor=white" alt="DHCP">  
-  <img src="https://img.shields.io/badge/DNS-0033AA?style=for-the-badge&logo=dns&logoColor=white" alt="DNS">  
-</div>  
+### 🔧 Công cụ bảo mật
+![Metasploit](https://img.shields.io/b/-Metasploit-orange?style=flat-square&logo=metasploit)
+![Burp Suite](https://img.shields.io/b/-Burp%20Suite-black?style=flat-square)
+![Wireshark](https://img.shields.io/b/-Wireshark-blue?style=flat-square&logo=wireshark)
+![Nmap](https://img.shields.io/b/-Nmap-white?style=flat-square&logo=nmap)
 
-### ☁️ Cloud & Security  
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">  
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">  
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">  
-  <img src="https://img.shields.io/badge/SIEM-4B32C3?style=for-the-badge&logo=splunk&logoColor=white" alt="SIEM">  
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">  
-  <img src="https://img.shields.io/badge/Nagios-1EB300?style=for-the-badge&logo=nagios&logoColor=white" alt="Nagios">  
-</div>  
+### 💻 Ngôn ngữ lập trình
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-### 📚 Certifications & Languages  
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">  
-  <img src="https://img.shields.io/badge/MOS%20Expert-217346?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="MOS Expert">  
-  <img src="https://img.shields.io/badge/HSK3-FF0000?style=for-the-badge&logo=chinese&logoColor=white" alt="HSK3">  
-  <img src="https://img.shields.io/badge/JLPT%20N4-000000?style=for-the-badge&logo=japanese&logoColor=white" alt="JLPT N4">  
-  <img src="https://img.shields.io/badge/CCNA%20(in%20progress)-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA">  
-</div>  
+### ☁️ Cloud & Hạ tầng
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
----
+## 📈 Thống kê GitHub
 
-## 🚀 Projects  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)](https://github.com/yourusername)
 
-### Internal Network & Email Server Deployment  
-**Role**: Member | **Team**: 3 people  
-✅ Deployed DHCP/DNS servers (Bind9)  
-✅ Configured Postfix + Dovecot for enterprise email  
-✅ Implemented UFW firewall for network security  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)](https://github.com/yourusername)
 
-```bash
-Technologies: Bind9 | Postfix | Dovecot | UFW | Roundcube
+## 📝 Bài viết mới nhất
+
+<!-- BLOG-POST-LIST:START -->
+- [5 Cách Bảo Mật Mạng Doanh Nghiệp Hiệu Quả](https://yourblog.com/post1)
+- [Phân tích lỗ hổng Zero-Day trong Windows](https://yourblog.com/post2)
+- [Hướng dẫn sử dụng Wireshark cho người mới](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
+## � Chứng chỉ
+
+- OSCP (Offensive Security Certified Professional)
+- CEH (Certified Ethical Hacker)
+- CISSP (Certified Information Systems Security Professional)
+- CCNA Security
+
+## 💡 Dự án nổi bật
+
+- [Network Security Monitoring Tool](https://github.com/yourusername/network-monitor) - Công cụ giám sát an ninh mạng thời gian thực
+- [Vulnerability Scanner](https://github.com/yourusername/vuln-scanner) - Quét lỗ hổng tự động
+- [Secure Coding Guidelines](https://github.com/yourusername/secure-coding) - Hướng dẫn lập trình an toàn
+
+## 📫 Liên hệ
+
+📧 Email: your.email@example.com  
+🔒 PGP Key: [Xem tại đây](https://yourwebsite.com/pgp.asc)  
+🌐 Website: [https://yourwebsite.com](https://yourwebsite.com)
+
+> "Bảo mật là quá trình, không phải sản phẩm" - Bruce Schneier
